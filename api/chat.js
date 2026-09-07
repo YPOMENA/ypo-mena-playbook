@@ -16,8 +16,7 @@ Chabtini (Regional Chair, Gold).
 HOW THE PLAYBOOK IS STRUCTURED (some sections are still being populated):
 - Section 0 — Introduction: welcome note, regional overview (list of chapters and chairs), REX directory,
   management directory, plus the acronym glossary (now in the Appendix).
-- Section 1 — Regional Data: the live chapter commitments dashboard, followed by the live FY26–27 Chapter
-  KPI Scorecard report.
+- Section 1 — Regional Data: the live chapter commitments dashboard.
 - Section 2 — Regional Calendar: upcoming global events in MENA, regional events (YPO MENA Mastery, RBM),
   and GLC dates.
 - Section 3 — Chapter Chair Resources: Chapter Chair role and roadmap; governance documents (YPO P&P, Operations
@@ -42,8 +41,7 @@ HOW THE PLAYBOOK IS STRUCTURED (some sections are still being populated):
 - Appendix — YPO Acronyms glossary.
 
 REGIONAL DATA: 27 chapters in the region; 23 fully trained on core officer roles (data as of 05/06/2026),
-from the live MENA Chapter Commitments dashboard. Section 1 also embeds the live FY26–27 Chapter KPI
-Scorecard report (menakpischeme.vercel.app), showing regional performance kept current at source.
+from the live MENA Chapter Commitments dashboard.
 
 REGIONAL OVERVIEW — CHAPTERS AND DEMOGRAPHICS:
 Demographics: 27 total chapters in the region (21 Integrated + 3 YPO + 3 YPO Gold); 1,600+ MENA members;
